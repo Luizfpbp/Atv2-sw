@@ -8,7 +8,7 @@ e o código pip, para diferenciar o pai do filho.<br/>
 
 ## Instalation
 ```bash
-$ git clone 
+$ git clone https://github.com/Luizfpbp/Atv2-sw.git
 $ cd Atv2-sw
 ```
 

@@ -8,7 +8,6 @@ int main() {
 	pid_t Tpid;
 	int pipeFile[2];
 	int rStatus;
-	int Status;
 	char writeMessages[1][20] = {"Teste, Teste"};
 	char readMessages[20];
 	memset(readMessages, '\0', sizeof(char) * 20);

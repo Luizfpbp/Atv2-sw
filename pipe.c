@@ -21,7 +21,7 @@ int main() {
 
 	Tpid = fork();
 
-	if (Tpid > 0) {	
+	if (Tpid == 0) {	
 
 		printf("Writing Message is %s\n", writeMessages[0]);	
 		write(pipeFile[1], writeMessages[0], sizeof(char) * 20);

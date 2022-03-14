@@ -18,6 +18,7 @@ $ cd Atv2-sw
 $ make     # Compila o aquivo c
 $ ./bin    # Executa o arquivo
 $ rm bin   # Limpa
+```
 
 ## License
 [MIT]

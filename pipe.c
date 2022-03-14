@@ -38,6 +38,7 @@ int main() {
 		return 0;
 
 	}
-
+	
+	wait(NULL);
 	return 0;
 }

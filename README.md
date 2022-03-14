@@ -1,5 +1,5 @@
 # Atv2-sw
-Segunda atividade da cadeira de infra de software <br/>
+Processo de pipe com uso de pai/fihlo <br/>
 
 A proposta dessa atividade era usar o processo de read e write presente <br/>
 no 'pipe' e aplicar com o conceito de pai e filho.<br/>

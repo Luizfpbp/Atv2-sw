@@ -1,4 +1,4 @@
-# Atv2-sw
+# Atv2-sw-ProcessoPipe
 Processo de pipe com uso de pai/filho <br/>
 
 A proposta dessa atividade era usar o processo de read e write presente <br/>
@@ -9,7 +9,7 @@ e o código pip, para diferenciar o pai do filho.<br/>
 ## Installation
 ```bash
 $ git clone https://github.com/Luizfpbp/Atv2-sw.git
-$ cd Atv2-sw
+$ cd Atv2-sw-ProcessoPipe
 ```
 
 
